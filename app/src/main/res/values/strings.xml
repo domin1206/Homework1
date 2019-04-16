@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">1zadanie</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">yolo</string>
+    <string name="change_contact">Change contact</string>
+    <string name="change_sound">Change sound</string>
+    <string name="button1">Cancel</string>
+    <string name="button2">Ok</string>
+    <string-array name="contacts">
+        <item>Michał</item>
+        <item>Brat</item>
+        <item>Bob</item>
+        <item>Jan</item>
+        <item>Marek</item>
+    </string-array>
+    <string-array name="sounds">
+        <item>sounds 1</item>
+        <item>sounds 2</item>
+        <item>sounds 3</item>
+        <item>sounds 4</item>
+        <item>sounds 5</item>
+        <item>sounds 6</item>
+    </string-array>
+</resources>
